@@ -1,0 +1,26 @@
+﻿  Main.cpp
+C:\Users\haith\source\repos\engine2.0\engine2.0\Utils.cpp(10,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Utils.cpp(11,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Utils.cpp(12,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Window.cpp(15,17): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Window.cpp(18,17): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Objects.cpp(20,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Objects.cpp(35,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\haith\source\repos\engine2.0\engine2.0\Objects.cpp(36,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\haith\source\repos\engine2.0\engine2.0\Objects.cpp(46,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Objects.cpp(173,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Objects.cpp(173,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Objects.cpp(176,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Objects.cpp(177,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Objects.cpp(224,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Objects.cpp(224,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Game.cpp(79,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Game.cpp(79,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Game.cpp(82,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Game.cpp(82,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Game.cpp(82,149): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Game.cpp(82,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Game.cpp(84,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Game.cpp(84,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haith\source\repos\engine2.0\engine2.0\Objects.cpp(156): warning C4715: 'Colider::detectColition': not all control paths return a value
+  engine2.0.vcxproj -> C:\Users\haith\source\repos\engine2.0\x64\Debug\engine2.0.exe
